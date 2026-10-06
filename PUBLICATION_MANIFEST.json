@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-07",
+  "title": "Anthropic standalone paper trading study",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".env.example",
+      "sha256": "cd3a81bef3026b552d213018f215dde2d8c0d179757ebd2d586809a195be1e7c",
+      "bytes": 38
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "2dc54d323b473504b3a35f0289816db9d23aae3e7ecfbccb2845e3fc09f9b358",
+      "bytes": 108
+    },
+    {
+      "path": "cli.py",
+      "sha256": "1a8e75b4529f47f07bf78f89a2904f9b280f832aff6f4192270350d6f693717d",
+      "bytes": 1895
+    },
+    {
+      "path": "demo_summary.json",
+      "sha256": "c239ecdb7aff3d854ba044d37bc43b266ff2407de399f7ca4618a9aae52b5752",
+      "bytes": 447
+    },
+    {
+      "path": "imad_trading_bot.py",
+      "sha256": "5d6a2d149587f8c3f0bfb701b70cb904882005d072ce6ea1651ce42d7fd63891",
+      "bytes": 69
+    },
+    {
+      "path": "paper.py",
+      "sha256": "02802ad98c445f5198ffdae33a802813ecd17ebaf442c1dde3b89d9ac380d0f9",
+      "bytes": 10162
+    },
+    {
+      "path": "providers.py",
+      "sha256": "1c61582cac9d2a09e02557bb782cf82859d33e506484f4111e56426867ac4c27",
+      "bytes": 4168
+    },
+    {
+      "path": "README.md",
+      "sha256": "406370b8dbcd7f47b6c487d022d2f2cb2dc5de70113f38c7ebbed3877e977504",
+      "bytes": 2894
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "40634886b612901c2612fac8918d023146e2a193eadfe156e8a6c31d2147cabf",
+      "bytes": 77
+    },
+    {
+      "path": "test_paper.py",
+      "sha256": "bf64d88bdeb51f4107d3e9e6210c34b016a787c4dcd06b1ac4193279d89fbd1e",
+      "bytes": 8081
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "76c184e85dd57bb0d59561f4d3c6e63dc0c3717e00e6033a0da0c729dec92822",
+      "bytes": 723
+    }
+  ]
+}

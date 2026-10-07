@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "title": "Anthropic standalone paper trading study",
   "completion_gate_passed": true,
   "files": [
@@ -55,8 +55,8 @@
     },
     {
       "path": "VERIFICATION.json",
-      "sha256": "76c184e85dd57bb0d59561f4d3c6e63dc0c3717e00e6033a0da0c729dec92822",
-      "bytes": 723
+      "sha256": "68671c87a7a83ed2d84270b68df3c61bd36e60703ec2eff7d277599bee591214",
+      "bytes": 727
     }
   ]
 }
